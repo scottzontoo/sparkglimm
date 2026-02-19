@@ -39,10 +39,7 @@ SparkGlim combines the most important growth and trust factors in one platform:
 
 Current public brand proof points include:
 
-- Trusted by **200+ event organizers** in Ghana
-- **50K+ active votes**
-- **1000+ campaigns**
-- **GHS 2M+ raised**
+- Trusted by **20+ event organizers** in Ghana
 - **99.9% uptime**
 - Millions of votes processed across universities, award shows, and community programs
 
@@ -283,44 +280,6 @@ This index covers key public pages currently discoverable from SparkGlim's sitem
 - `/campaigns/casford-multi-purpose-court`
 - `/campaigns/ucc-src-hassel-free-transport`
 
-## SEO Keywords and Metadata
-
-Use this section for SEO copy consistency across landing pages, social bios, and campaign descriptions.
-
-Primary SEO keyword cluster:
-
-- digital voting platform Ghana
-- online voting platform Ghana
-- event ticketing platform Ghana
-- fundraising platform Ghana
-- USSD voting Ghana
-- mobile money voting Ghana
-- awards voting platform Ghana
-- sell tickets online Ghana
-- QR code ticketing Ghana
-
-Secondary SEO keyword cluster:
-
-- secure voting for award shows
-- student election voting platform
-- online fundraiser Ghana
-- buy event tickets with mobile money
-- USSD ticket purchase Ghana
-- real-time voting analytics
-- transparent digital campaign platform
-- Ghana event management technology
-
-Suggested homepage SEO metadata:
-
-- Title: `SparkGlim | Digital Voting, Ticketing, Fundraising & USSD Platform in Ghana`
-- Meta description: `Run secure voting campaigns, sell event tickets, and raise funds with mobile money, card, and USSD support. SparkGlim is built for high-conversion campaigns in Ghana.`
-
-Suggested service page metadata examples:
-
-- Voting title: `Online Voting Platform Ghana | Secure Awards & Elections | SparkGlim`
-- Ticketing title: `Event Ticketing Platform Ghana | QR Check-In & Mobile Money | SparkGlim`
-- Fundraising title: `Online Fundraising Platform Ghana | Mobile Money Donations | SparkGlim`
-- USSD title: `USSD Voting, Ticketing & Donations in Ghana | SparkGlim`
 
 ## Contact and Support
 
